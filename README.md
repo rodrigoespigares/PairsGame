@@ -1,6 +1,6 @@
 # Pairs Game
-Create your shopping lists before going to the supermarket
-![imagen](https://github.com/rodrigoespigares/GroceryBud/assets/94736646/2656bcfe-1e6b-46eb-b941-060baec4e960)
+Search for all the couples in the shortest time
+![imagen](https://github.com/rodrigoespigares/PairsGame/assets/94736646/8e82c571-379c-435b-b3fd-75d65c897a4d)
 
 ## Learned content
 
@@ -8,4 +8,4 @@ In this repository I have learned to create DOM elements and use them. In additi
 
 ## Version
 ### V.1
-The grocery bud is operational and working correctly.
+Ready to play find the pairs.
