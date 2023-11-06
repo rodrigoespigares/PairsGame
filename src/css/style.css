@@ -1,0 +1,59 @@
+body{
+    padding: 0;
+    margin: 0;
+    text-transform: uppercase;
+    background-color: #82D2E4;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content:  center;
+    align-items: center;
+    min-height: 100vh;
+}
+main{
+    flex-grow: 1;
+    text-align: center;
+}
+#clock{
+    display: flex;
+    justify-content: center;
+    font-size: 3rem;
+}
+#cards{
+    display: flex;
+    flex-wrap: wrap;
+}
+#cards img{
+    width: 100px;
+    height: 149px;
+    margin: 0 .4rem;
+}
+#alert{
+    background-color: white;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+    width: 80%;
+    position: absolute;
+}
+#alert button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30px;
+    height: 30px;
+    float: right;
+}
+#alert button img{
+    width: 30px;
+    height: 30px;
+}
+footer{
+    border-top: 1px solid white;
+    width: 100%;
+    text-align: center;
+    padding-top: 2rem;
+}
